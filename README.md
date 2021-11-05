@@ -1,8 +1,8 @@
-# LaboratorioAnalisisII
-Laboratorio Analísis de Sistemas II
-Curso: Analisis de SistemasII
+# LaboratorioAnalisisII<br>
+Laboratorio Analísis de Sistemas II<br>
+Curso: Analisis de SistemasII<br>
 Ing. Gabriela Luna
 
-#Datos personales
-Nombre: Mario Ruben Garcia Monzon
+# Datos personales<br>
+Nombre: Mario Ruben Garcia Monzon<br>
 Carne: 1290-12-11180
